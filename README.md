@@ -4,7 +4,7 @@
 
 <br><br>
 
-<a href="ADD-YOUR-GITHUB-PAGES-LINK"><img src="https://img.shields.io/badge/Open_the_flipbook-C9A24B?style=for-the-badge&logoColor=1C2B45" alt="Open the flipbook"></a>
+<a href="https://cynthialmcginnis.github.io/AI_LearningCircle_Sept27_2026/"><img src="https://img.shields.io/badge/Open_the_flipbook-C9A24B?style=for-the-badge&logoColor=1C2B45" alt="Open the flipbook"></a>
 &nbsp;
 <a href="https://huggingface.co/spaces/cymcginnis/Lesson_Assessor"><img src="https://img.shields.io/badge/Lesson_Plan_Builder-1C2B45?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Lesson Plan Builder and Assessor on Hugging Face"></a>
 
